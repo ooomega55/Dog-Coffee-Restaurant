@@ -1,0 +1,123 @@
+body {
+    background-color: #4E6172;
+}
+
+h1 {
+    font-size: 40px;
+    color: #B99C6B;
+    text-align: center;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+h2 {
+    color: #8F3B1B;
+    font-family: verdana;
+    font-weight: bold;
+}
+
+a:visited {
+  color: #DBCA69;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lime;
+  background-color: transparent;
+  text-decoration: none;
+  filter: brightness(1000%);
+}
+
+a:active {
+    color: orange;
+    background-color: transparent;
+    text-decoration: none;
+}  
+
+a:link {
+  color: orange;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.background{
+    background: url("https://media.istockphoto.com/photos/wood-texture-table-top-with-blur-light-gold-bokeh-in-caferestaurant-picture-id1129661826?k=20&m=1129661826&s=612x612&w=0&h=-MUT00Fs2Qj9oZhly0c_EJKzpwkkMArzKv_lxbCDb1I=");
+    background-size: cover;
+}
+
+.background2{
+    background: url("https://image.shutterstock.com/image-photo/fast-food-restaurant-burger-shop-260nw-548267455.jpg");
+    background-size: cover;
+}    
+    
+.background3{
+    background: url("https://t3.ftcdn.net/jpg/02/21/40/16/360_F_221401603_6urJw6Di9KjlgcPgLfkdVLHtc5Q21aCx.jpg");
+    background-size: cover;
+}
+
+.background4{
+    background: url("https://image.shutterstock.com/image-photo/blur-restaurant-cafe-interior-background-260nw-598319711.jpg");
+    background-size: cover;
+}
+
+.background5{
+    background: url("https://www.teahub.io/photos/full/192-1923893_restaurant-wallpapers-creative-restaurant-wallpapers-restaurant-website-food.jpg");
+    background-size: cover;
+}
+
+.background6{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQml93Q1Qik9z1WcIWRIJtFFk5O7wJYpONZCA&usqp=CAU");
+    background-size: cover;
+}
+
+.change{
+    font-size: 20px;
+    font-family: verdana;
+    color: #D57500;
+    font-weight: bold;
+}
+
+.add{
+    background-color: #4E6172;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.test {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.move {
+    text-align: justify;
+    font-size:40px;
+    color: #B99C6B;
+    font-weight: bold;
+    font-family: helvetica;
+}
+
+.fix {
+    padding: 10px;
+}
+
+.fix2 {
+    padding: 20px;
+}
+
+.style {
+    color: #B99C6B;
+    font-weight: bold;
+    font-family: Helvetica;
+    text-align: center;
+    padding: 10px;
+}
+
+.poison {
+    background-color: darkred;
+    color: thistle;
+}
